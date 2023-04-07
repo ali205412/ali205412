@@ -72,7 +72,7 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=yui@kotegawa.org">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://kotegawa.org">
+    <a href="https://aliabdelaal.com">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
 </div>
