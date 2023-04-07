@@ -62,36 +62,7 @@
 
 ---
 
-### 📈 Weekly Developement Breakdown
 
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 24 January 2023 - To: 05 April 2023
-
-Total Time: 116 hrs 22 mins
-
-TypeScript   96 hrs 30 mins  ████████████████████▓░░░░   82.93 %
-JavaScript   8 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-XML          2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-JSON         1 hr 52 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-CSS          1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-```
-
-<!--END_SECTION:waka-simple-->
-
----
-
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali205412/ali205412/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali205412/ali205412/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ali205412/ali205412/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 🔗 Social info
 
