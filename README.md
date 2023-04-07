@@ -28,7 +28,6 @@
 </a>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali205412&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ali205412&theme=react) -->
-
 --- 
 
 
