@@ -21,7 +21,6 @@
 ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ali205412&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ali205412&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=ali205412&theme=react-dark)
 <a href="https://github.com/ali205412/github-stats">
 <img src="https://github.com/ali205412/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/ali205412/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
